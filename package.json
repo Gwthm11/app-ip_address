@@ -1,0 +1,21 @@
+{
+  "name": "@acme/app-ip_address",
+  "version": "0.1.0",
+  "description": "An IAP product serving IP address management functions.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/--snip--/app-ip_address.git)"
+  },
+  "keywords": [
+    "ACME"
+  ],
+  "author": "ACME",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "ip-cidr": "^2.1.4"
+  }
+}
